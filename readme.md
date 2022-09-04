@@ -108,4 +108,4 @@ Route 53 is primarily a DNS web service, this not only enables you to link IP ad
 
 ## Results
 
-<video src= "img/ESP32Test.mp4" width = "50%"/>
+https://test.xn--v6da.com/ESP32Test.mp4
