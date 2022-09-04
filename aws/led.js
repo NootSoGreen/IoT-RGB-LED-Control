@@ -1,4 +1,4 @@
-apiEndpoint = "https://8f91tmq4za.execute-api.ap-southeast-2.amazonaws.com/default/ledTest"
+apiEndpoint = "YOUR ENDPOINT HERE"
 
 
 function ready(){
